@@ -25,6 +25,9 @@ clone this repo and run `npm -install` then you can use `reload -b` to run it on
 ### Demo Link
 [Demo](https://chris19960730.github.io./)
 
+### Google Slides
+[Slides](https://docs.google.com/presentation/d/1eRuzXu3XNifiPhmisZM3LvhDBuz19FaTq0gaYHKo8Zg/edit?usp=sharing)
+
 ### MIT License
 [MIT License](https://github.com/chris19960730/chris19960730.github.io/blob/master/LICENSE)
 

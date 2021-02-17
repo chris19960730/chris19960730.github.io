@@ -1,5 +1,5 @@
 ### Project Name
-My portfolio
+My portfolio : It would be much better if you change "my" to "your name", if you wanna put it in public in the future. 
 
 ### Project Objective
 Building a portfolio webpage using HTML, CSS, JavaScript.
@@ -8,10 +8,10 @@ Building a portfolio webpage using HTML, CSS, JavaScript.
  ![screenshot](https://github.com/chris19960730/chris19960730.github.io/blob/master/screenshot/screenshot.png)
  
 ### Tech requirements
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, Bootstrap
 
 ### How to install/use
-clone this repo and run `npm -install` then you can use `reload -b` to run it on your local machine.
+Clone this repo and run `npm -install` then you can use `reload -b` to run it on your local machine.
 
 ### Author
 [Haocheng Yang](https://github.com/chris19960730).
